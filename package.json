@@ -1,0 +1,26 @@
+{
+  "name": "@4a/uid",
+  "version": "0.1.0",
+  "description": "简单的资源数字ID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/upload-integer-id.git"
+  },
+  "keywords": [
+    "uid",
+    "upload-integer-id"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/upload-integer-id/issues"
+  },
+  "homepage": "https://github.com/gavinning/upload-integer-id#readme",
+  "dependencies": {
+    "date-format": "^3.0.0"
+  }
+}
